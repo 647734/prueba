@@ -10,6 +10,7 @@ public class Main {
 		
 		ClaseTexto cT = new ClaseTexto();
 		cT.verTexto();
+		cT.verNumero();
 		
 	}
 }
