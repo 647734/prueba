@@ -7,4 +7,10 @@ public class ClaseTexto implements Interfaz{
 		System.out.println("Hola que tal!!!");
 	}
 
+	@Override
+	public void verNumero() {
+		System.out.println(99);
+		
+	}
+
 }
